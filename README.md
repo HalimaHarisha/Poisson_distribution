@@ -70,7 +70,7 @@ else:
 ```
 
 Output : 
-
+~~~
 1 2 3 4 5 6 7 8 9 0 0 7 6 5 5 5
 X P(X=x) Obs.Fr Exp.Fr xi
 --------------------------
@@ -88,6 +88,7 @@ X P(X=x) Obs.Fr Exp.Fr xi
 Calculated value of Chi square is 24.74
 Table value of chi square at 1 level is 21.67
 The given data cannot be fitted in Poisson Distribution at 1% LOS
+~~~
 
 
 
